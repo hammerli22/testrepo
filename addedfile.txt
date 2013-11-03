@@ -1,10 +1,10 @@
 I added another file from the web.
 
 
-<<<<<<< HEAD
+
 2. now i modify it from windows
 
 3 editi it again
 =======
 2. now i modify it from windows
->>>>>>> ad942a57a5b5205ca1ff01ca2a77eedb534b5c2e
+
